@@ -33,7 +33,7 @@ engines:
 
 ratings:
    paths:
-   - lib/**
+   - "lib/**"
 #   - "**.rb"
 #   - "**.go"
 
